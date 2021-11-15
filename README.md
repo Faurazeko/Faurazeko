@@ -1,4 +1,4 @@
-im junior c# dev.
+I'm really like C#.
 
 My telegram: t.me/Faurazeko
 
