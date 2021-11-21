@@ -1,4 +1,4 @@
-I'm really like C#.
+I really like C#.
 
 My telegram: t.me/Faurazeko
 
