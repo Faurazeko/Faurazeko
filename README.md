@@ -7,4 +7,6 @@ Skills: C#, ASP.NET, HTML, CSS, JS, jQuery, EF core
 
 [![Faurazeko's telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Faurazeko) [![Faurazeko's gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trozana2@gmail.com)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ![](https://komarev.com/ghpvc/?username=faurazeko)
